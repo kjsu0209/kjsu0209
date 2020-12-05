@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-  🌱 I’m currently learning Spring boot     
+  🌱 I’m currently learning Spring boot    
+  🌱 and building a simple portfolio website with an awesome template.
+  --> [take a look](https://kjsu0209.github.io/portfolio/)
   
   ### Interests
 - Web development
