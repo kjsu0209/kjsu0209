@@ -2,7 +2,7 @@
 
   🌱 I’m currently learning Spring boot    
   
-  ### :smile: Interests
+  ### :mag_right: Interests
 - Web development
 - Project management
 - Software design
