@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  🌱 I’m currently learning Spring boot    
+  🌱 I’m currently learning Spring boot & Spring Cloud    
   
   ### :mag_right: Interests
 - Web development
