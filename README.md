@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  🌱 I’m currently reviewing JAVA    
+  🌱 I’m currently reviewing Java    
   
   ### :mag_right: Interests
 - Web development (mainly for backend; Spring, Node.js, Flask ...)
