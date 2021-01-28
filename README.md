@@ -8,4 +8,4 @@
 - Software design
 - Cloud computing (AWS, GCP)
         
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kjsu0209)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kjsu0209&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
