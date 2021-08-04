@@ -1,6 +1,6 @@
 ### Hi there 👋
   
-  🌱 I’m currently learning Spring    
+  🌱 I’m currently reading Toby's Spring    
 
   
   ### :mag_right: Interests
