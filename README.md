@@ -4,7 +4,7 @@
 
   
   ### :mag_right: Interests
-- Web development (mainly for backend; Spring, Node.js, Flask ...)
+- Web development (mainly for backend; Spring Boot, Node.js, Flask ...)
 - Project management & Software design
 - Cloud computing (AWS, GCP)   
         
