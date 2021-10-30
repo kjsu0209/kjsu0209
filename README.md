@@ -1,6 +1,6 @@
 ### Hi there 👋
   
-  🌱 I’m currently reading Toby's Spring    
+  🌱 I’m currently reading The Pragmatic Programmer    
 
   
   ### :mag_right: Interests
