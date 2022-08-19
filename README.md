@@ -1,6 +1,6 @@
 ### Hi there 👋
   
-  🌱 I’m currently reading The Pragmatic Programmer    
+  🌱 I’m currently looking for what to read 
 
   
   ### :mag_right: Interests
