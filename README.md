@@ -1,6 +1,6 @@
 ### Hi there 👋
   
-  🌱 I’m currently looking for what to read 
+  🌱 I’m reading Software Engineering at Google
 
   
   ### :mag_right: Interests
